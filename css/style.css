@@ -2,3 +2,11 @@ body {
     background-color: gray;
     color: antiquewhite;
 }
+#mian-title {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.centered-heading {
+    text-align: center;
+    color: lightblue;
+}
